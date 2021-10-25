@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Start Your Google Adwords PPC Campaigns
 
 You can use the [editor on GitHub](https://github.com/ridal2061/ridal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
